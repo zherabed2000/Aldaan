@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.07" height="42.004" viewBox="0 0 42.07 42.004">
+  <g id="Group_1769" data-name="Group 1769" transform="translate(628.7 -922.787)">
+    <g id="Group_1748" data-name="Group 1748">
+      <path id="Path_1133" data-name="Path 1133" d="M-606.271,957.589l3.291,3.292,1.519-1.519a6,6,0,0,0,1.756-4.148l.1-6.516,5.154-5.154a19.548,19.548,0,0,0,5.239-18.178,19.546,19.546,0,0,0-18.177,5.24l-5.154,5.153-6.517.1a6,6,0,0,0-4.147,1.756l-1.519,1.519,3.36,3.359" fill="none" stroke="#173587" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_1134" data-name="Path 1134" d="M-597.437,933.594a3.354,3.354,0,0,1-.868,5.365,3.246,3.246,0,0,1-2.992,0,3.355,3.355,0,0,1-.869-5.365,3.522,3.522,0,0,1,.283-.252" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <g id="Group_1747" data-name="Group 1747">
+        <line id="Line_1172" data-name="Line 1172" x1="5.899" y2="5.9" transform="translate(-620.204 945.22)" fill="none" stroke="#173587" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <line id="Line_1173" data-name="Line 1173" x1="4.598" y2="4.597" transform="translate(-613.728 950.531)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+    <g id="Group_1751" data-name="Group 1751" opacity="0.15">
+      <g id="Group_1750" data-name="Group 1750">
+        <path id="Path_1135" data-name="Path 1135" d="M-608.248,959.5l3.291,3.291,1.519-1.518a6,6,0,0,0,1.756-4.148l.1-6.517,5.153-5.153a19.549,19.549,0,0,0,5.239-18.178,19.544,19.544,0,0,0-18.177,5.24l-5.154,5.153-6.516.1a6,6,0,0,0-4.148,1.757l-1.519,1.518,3.36,3.36" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_1136" data-name="Path 1136" d="M-599.413,935.505a3.355,3.355,0,0,1-.869,5.365,3.246,3.246,0,0,1-2.992,0,3.354,3.354,0,0,1-.868-5.365,3.339,3.339,0,0,1,.282-.252" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <g id="Group_1749" data-name="Group 1749">
+          <line id="Line_1174" data-name="Line 1174" x1="5.9" y2="5.9" transform="translate(-622.18 947.131)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <line id="Line_1175" data-name="Line 1175" x1="4.598" y2="4.597" transform="translate(-615.705 952.442)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

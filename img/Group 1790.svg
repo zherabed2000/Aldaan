@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.162" height="49.681" viewBox="0 0 41.162 49.681">
+  <g id="Group_1790" data-name="Group 1790" transform="translate(-181.479 -917)">
+    <g id="Group_1080" data-name="Group 1080" transform="translate(183.492 919)">
+      <g id="Group_1078" data-name="Group 1078" transform="translate(2.137)">
+        <path id="Path_562" data-name="Path 562" d="M-424.253-3019.448v-4.13a7.249,7.249,0,0,1,7.249-7.249h0a7.249,7.249,0,0,1,7.249,7.249v4.13" transform="translate(434.768 3030.827)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_563" data-name="Path 563" d="M-403.813-2989.427h-23.358a5.82,5.82,0,0,1-5.743-6.755l3.392-22.258a3.492,3.492,0,0,1,3.447-2.93h21.166a3.492,3.492,0,0,1,3.447,2.93l3.392,22.258A5.819,5.819,0,0,1-403.813-2989.427Z" transform="translate(432.991 3032.75)" fill="none" stroke="#173587" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Group_1079" data-name="Group 1079" transform="translate(0 2.359)" opacity="0.15">
+        <path id="Path_564" data-name="Path 564" d="M-426.029-3017.488v-4.13a7.249,7.249,0,0,1,7.249-7.249h0a7.249,7.249,0,0,1,7.249,7.249v4.13" transform="translate(436.544 3028.867)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_565" data-name="Path 565" d="M-405.589-2987.468h-23.358a5.819,5.819,0,0,1-5.743-6.755l3.392-22.258a3.492,3.492,0,0,1,3.447-2.93h21.166a3.492,3.492,0,0,1,3.447,2.93l3.392,22.258A5.819,5.819,0,0,1-405.589-2987.468Z" transform="translate(434.767 3030.791)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+    <text id="KG" transform="translate(191.138 952.861)" fill="#e4e9f5" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">KG</tspan></text>
+    <text id="KG-2" data-name="KG" transform="translate(192.138 950.861)" fill="#6381d4" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">KG</tspan></text>
+  </g>
+</svg>

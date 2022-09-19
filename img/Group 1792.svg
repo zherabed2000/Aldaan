@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.982" height="41.91" viewBox="0 0 41.982 41.91">
+  <g id="Group_1792" data-name="Group 1792" transform="translate(-187.195 -894.176)">
+    <g id="Group_1790" data-name="Group 1790" transform="matrix(0.695, -0.719, 0.719, 0.695, -635.111, 448.76)">
+      <g id="Group_1080" data-name="Group 1080" transform="translate(183.492 919)">
+        <g id="Group_1078" data-name="Group 1078" transform="translate(50.137 4.717)">
+          <path id="Path_562" data-name="Path 562" d="M-424.253-3019.448v-4.13a7.249,7.249,0,0,1,7.249-7.249h0a7.249,7.249,0,0,1,7.249,7.249v4.13" transform="translate(434.768 3030.827)" fill="none" stroke="#173587" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Group_1079" data-name="Group 1079" transform="translate(0 2.359)" opacity="0.15">
+          <path id="Path_564" data-name="Path 564" d="M-426.029-3017.488v-4.13a7.249,7.249,0,0,1,7.249-7.249h0a7.249,7.249,0,0,1,7.249,7.249v4.13" transform="translate(484.544 3033.584)" fill="none" stroke="#173587" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1596" data-name="Group 1596" transform="translate(1755.362 158.451)">
+      <g id="Group_1592" data-name="Group 1592">
+        <g id="Group_1591" data-name="Group 1591">
+          <line id="Line_1098" data-name="Line 1098" y1="25.432" x2="25.432" transform="translate(-1558.897 743.008)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Path_1139" data-name="Path 1139" d="M18,0A18,18,0,1,1,0,18,18,18,0,0,1,18,0Z" transform="translate(-1564.185 737.725)" fill="none" stroke="#173587" stroke-linecap="round" stroke-width="4"/>
+        </g>
+      </g>
+      <g id="Group_1595" data-name="Group 1595" opacity="0.15">
+        <g id="Group_1594" data-name="Group 1594">
+          <g id="Group_1593" data-name="Group 1593">
+            <line id="Line_1099" data-name="Line 1099" y1="25.432" x2="25.432" transform="translate(-1560.873 744.919)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <circle id="Ellipse_241" data-name="Ellipse 241" cx="18" cy="18" r="18" transform="translate(-1566.167 739.634)" fill="none" stroke="#6381d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
